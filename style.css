@@ -9,8 +9,10 @@ h1 {
 	text-decoration: underline;
 }
 
-.grid {
-	padding-left: 750px;
+.flex {
+	display: grid;
+	flex-direction: column;
+	justify-content: center;
 }
 
 .row {
